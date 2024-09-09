@@ -1,5 +1,5 @@
 # Study-of-Assortativity-in-Configuration-Networks-via-Newman-Rewiring
-Here’s a well-structured GitHub README for your thesis:
+
 
 ---
 
